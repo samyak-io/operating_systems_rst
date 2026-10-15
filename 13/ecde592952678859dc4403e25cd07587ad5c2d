@@ -1,0 +1,16 @@
+input_file.txt
+  h_e0b6039193c6f1 1-7
+restaurant.c
+  h_e0b6039193c6f1 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "13ecde592952678859dc4403e25cd07587ad5c2d",
+  "prompts": {},
+  "humans": {
+    "h_e0b6039193c6f1": {
+      "author": "Samyak <samyakkhobr@gmail.com>"
+    }
+  }
+}
