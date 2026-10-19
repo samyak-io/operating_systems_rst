@@ -1,0 +1,36 @@
+tests/01_basic_concurrency.txt
+  h_e0b6039193c6f1 1-6
+tests/02_idle_then_arrival.txt
+  h_e0b6039193c6f1 1-5
+tests/03_fcfs_tie_break.txt
+  h_e0b6039193c6f1 1-6
+tests/04_priority_tie_break.txt
+  h_e0b6039193c6f1 1-7
+tests/05_sjf_tie_break.txt
+  h_e0b6039193c6f1 1-7
+tests/06_long_job_and_short_job.txt
+  h_e0b6039193c6f1 1-6
+tests/07_single_order.txt
+  h_e0b6039193c6f1 1-3
+tests/08_many_same_arrival.txt
+  h_e0b6039193c6f1 1-8
+tests/09_invalid_zero_service.txt
+  h_e0b6039193c6f1 1-4
+tests/10_invalid_negative_arrival.txt
+  h_e0b6039193c6f1 1-3
+tests/11_duplicate_ids.txt
+  h_e0b6039193c6f1 1-4
+tests/12_malformed_row.txt
+  h_e0b6039193c6f1 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8aee9297853a5de85f480951b6d22951db773767",
+  "prompts": {},
+  "humans": {
+    "h_e0b6039193c6f1": {
+      "author": "Samyak <samyakkhobr@gmail.com>"
+    }
+  }
+}
