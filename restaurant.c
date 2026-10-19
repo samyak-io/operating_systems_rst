@@ -130,25 +130,6 @@ int compare_ids(const void *a, const void *b) {
     return strcmp(p1->id, p2->id);
 }
 
-// int find_next_fcfs(Process orders[], int n, int current_time) {
-//     int best = -1;
-
-//     for (int i = 0; i < n; i++) {
-//         if (orders[i].started ||
-//             orders[i].arrival_time > current_time) {
-//             continue;
-//         }
-
-//         if (best == -1 ||
-//             orders[i].arrival_time < orders[best].arrival_time ||
-//             (orders[i].arrival_time == orders[best].arrival_time &&
-//              strcmp(orders[i].id, orders[best].id) < 0)) {
-//             best = i;
-//         }
-//     }
-//     return best;
-// }
-
 int main (int argc, char *argv[]) {
     if (argc != 3){
         fprintf(
@@ -168,9 +149,6 @@ int main (int argc, char *argv[]) {
         return 1;
     }
 
-<<<<<<< HEAD
-    
-=======
     FILE *file = fopen(filename, "r");
 
     if (file == NULL) {
@@ -317,7 +295,6 @@ int main (int argc, char *argv[]) {
     printf("THROUGHPUT,%.4f\n", throughput);
     printf("UTILIZATION,%.2f%%\n", utilization);
 
->>>>>>> 20d089df6f3ac32ecb8a0dad7045726af32496fa
     return 0;
 }
 
