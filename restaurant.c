@@ -37,6 +37,8 @@ int main (int argc, char *argv[]) {
                 algorithm);
         return 1;
     }
+
+    
     return 0;
 }
 
