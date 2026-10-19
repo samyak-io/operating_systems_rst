@@ -1,0 +1,15 @@
+restaurant.c
+  h_e0b6039193c6f1 6,22-151,170-216,219-224,227-232,234-316
+  h_e0b6039193c6f1 217-218,225-226,233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "20d089df6f3ac32ecb8a0dad7045726af32496fa",
+  "prompts": {},
+  "humans": {
+    "h_e0b6039193c6f1": {
+      "author": "Samyak <samyakkhobr@gmail.com>"
+    }
+  }
+}
