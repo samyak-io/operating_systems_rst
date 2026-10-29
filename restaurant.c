@@ -11,7 +11,7 @@ typedef struct {
     int priority;
     int service_time;
     char category[32];
-
+    
     int remaining_time;
     int start_time;
     int completion_time;
