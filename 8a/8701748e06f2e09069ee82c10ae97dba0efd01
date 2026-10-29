@@ -1,0 +1,27 @@
+README.md
+  h_e0b6039193c6f1 3-6,10,12,15,19-20,98,104-113,118-122,132,148-259
+  s_948a1c906343b1::t_1f67a20ea61b69 1-2,7-9,11,13-14,16-18,21-97,99-103,114-117,123-131,133-147,260-264
+restaurant.c
+  h_e0b6039193c6f1 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8a8701748e06f2e09069ee82c10ae97dba0efd01",
+  "prompts": {},
+  "humans": {
+    "h_e0b6039193c6f1": {
+      "author": "Samyak <samyakkhobr@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_948a1c906343b1": {
+      "agent_id": {
+        "tool": "DeputyDev",
+        "id": "494167",
+        "model": "AUTO"
+      },
+      "human_author": "Samyak <samyakkhobr@gmail.com>"
+    }
+  }
+}
